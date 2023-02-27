@@ -1,0 +1,1 @@
+## this is basic nodejs and mysql project
